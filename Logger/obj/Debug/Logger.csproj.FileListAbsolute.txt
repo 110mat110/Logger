@@ -1,0 +1,17 @@
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\bin\Debug\Logger.dll
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\bin\Debug\LiteDB.dll
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\bin\Debug\LiteDB.xml
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\obj\Debug\Logger.csproj.CopyComplete
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\obj\Debug\Logger.dll
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\obj\Debug\Logger.pdb
+C:\Users\kvetk\OneDrive\Dokumenty\Projects\IoTHome\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Debug\Logger.dll
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Debug\Logger.pdb
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Debug\M2Mqtt.Net.dll
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Debug\Logger.csprojAssemblyReference.cache
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Debug\Logger.csproj.CopyComplete
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Debug\Logger.dll
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Debug\Logger.pdb

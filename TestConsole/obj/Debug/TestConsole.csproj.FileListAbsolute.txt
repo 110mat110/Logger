@@ -1,0 +1,12 @@
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\bin\Debug\Logger.dll
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\bin\Debug\M2Mqtt.Net.dll
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\bin\Debug\Logger.pdb
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\obj\Debug\TestConsole.csprojAssemblyReference.cache
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\obj\Debug\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\obj\Debug\TestConsole.csproj.CopyComplete
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\kvetk\source\repos\Logger\Logger\TestConsole\obj\Debug\TestConsole.pdb

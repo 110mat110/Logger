@@ -45,9 +45,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ILog.cs" />
     <Compile Include="Log.cs" />
     <Compile Include="GlobalLogger.cs" />
     <Compile Include="MQTTLogger.cs" />
+    <Compile Include="PictureLog.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

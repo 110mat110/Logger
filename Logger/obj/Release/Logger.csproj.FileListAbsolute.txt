@@ -1,0 +1,9 @@
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Release\Logger.dll
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Release\Logger.pdb
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Release\M2Mqtt.Net.dll
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\bin\Release\M2Mqtt.Net.pdb
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Release\Logger.csprojAssemblyReference.cache
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Release\Logger.csproj.CoreCompileInputs.cache
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Release\Logger.csproj.CopyComplete
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Release\Logger.dll
+C:\Users\kvetk\source\repos\Logger\Logger\Logger\obj\Release\Logger.pdb

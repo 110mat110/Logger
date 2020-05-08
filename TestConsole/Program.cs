@@ -10,7 +10,19 @@ namespace TestConsole
     class Program
     {
         static void Main(string[] args) {
-                GlobalLogger.AddInputToQueue(new Log("Test", LogType.Other, Logger.Action.Notification));
+            GlobalLogger.SetMQTT("****", "****", "io.adafruit.com");
+            int i = 0;
+            while (true) {
+                Console.ReadLine();
+                GlobalLogger.AddInputToQueue(new Log("Test no: " + i.ToString(), LogType.Other, Logger.Action.Notification));
+                i++;
+            }
+
+
+        }
+
+        static async void DoThing() {
+
         }
     }
 }

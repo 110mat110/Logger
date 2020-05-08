@@ -11,20 +11,25 @@ namespace Logger
         private MqttClient client;
         private string clientId;
 
-        public MQTTLogger() {
-            string BrokerAddress = "io.adafruit.com";
+        private string Name;
+        private string Password;
+        private string BrokerAddress;
 
+        public MQTTLogger(string name, string password, string broker) {
+            BrokerAddress = broker; // "io.adafruit.com";
+            Name = name;
+            Password = password;
             client = new MqttClient(BrokerAddress);
-
+            Connect();
             // register a callback-function (we have to implement, see below) which is called by the library when a message was received
             //client.MqttMsgPublishReceived += client_MqttMsgPublishReceived;
             //client.MqttMsgPublished += Client_MqttMsgPublished;
+        }
 
-            // use a unique id as client id, each time we start the application
+        private void Connect() {
             clientId = Guid.NewGuid().ToString();
 
-            client.Connect(clientId, "110mat110", "aio_SnuZ72E3ElmV3uA8DP5nw1Qv3ath");
-            //Subscribe();
+            client.Connect(clientId, Name, Password); // "110mat110", "aio_SnuZ72E3ElmV3uA8DP5nw1Qv3ath");
         }
 
         private void Client_MqttMsgPublished(object sender, MqttMsgPublishedEventArgs e) {
@@ -59,7 +64,15 @@ namespace Logger
         }
 
         public void Unsubscribe() {
-            client.Disconnect();
+            if(client!= null)
+                client.Disconnect();
+        }
+
+        public void Reconnect() {
+            if (!client.IsConnected) {
+                //Unsubscribe();
+                Connect();
+            }
         }
     }
 }
